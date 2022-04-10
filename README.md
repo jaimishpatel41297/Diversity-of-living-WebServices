@@ -17,7 +17,7 @@ Our project is an idea for a website where people could do the comparison betwee
 
 - 3380DiversityOfLiving-app
 
-### [App repository url](https://github.com/jaimishpatel41297/Diversity-of-living-App).
+### `[App repository url](https://github.com/jaimishpatel41297/Diversity-of-living-App)`
 
 - 3380DiversityOfLiving-webservices
 
