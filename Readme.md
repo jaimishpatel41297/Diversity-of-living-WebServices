@@ -12,4 +12,3 @@ Naming convention: LoginRouterAra65
 
 * DB name : diversityofliving
 * Collections: users,countrycounts , faqs
->>>>>>> 93122e75018659b09ef1cc7ac3b3a5f51ff6713e
